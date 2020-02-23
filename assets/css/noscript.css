@@ -12,6 +12,7 @@
 		-ms-transform: none;
 		transform: none;
 		opacity: 1;
+		color: lightblue; 
 	}
 
 	body.is-preload #banner h2 {
@@ -36,4 +37,5 @@
 		-webkit-filter: none;
 		-ms-filter: none;
 		filter: none;
+		color: lightblue; 
 	}
